@@ -8,8 +8,8 @@ Writes the joke deterministically to $MAKEFUN_OUTPUT_DIR/entry.txt
 import os
 
 JOKE = (
-    "The demo crashed live, my AI agent fixed it on stage, and I just "
-    "stood there nodding like I'd planned it all along."
+    "The demo crashed live, my AI agent fixed it on stage, and I took "
+    "the bow like I'd written a single line of it."
 )
 
 OUTPUT_FILENAME = "entry.txt"

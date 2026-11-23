@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/verad-xe/joke-about-the-demo/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 [![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/verad-xe/joke-about-the-demo/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 
-A one-line original joke about working beside AI coding agents: the demo crashes live, the agent fixes it on stage, and the human just stands there nodding like they planned it all along.
+A one-line original joke about working beside AI coding agents: the demo crashes live, the agent fixes it on stage, and the human takes the bow like they wrote a single line of it.
 
 ## Run it
 
